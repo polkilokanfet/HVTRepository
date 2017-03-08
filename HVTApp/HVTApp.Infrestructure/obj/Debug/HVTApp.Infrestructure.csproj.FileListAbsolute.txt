@@ -1,0 +1,4 @@
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp.Infrestructure\bin\Debug\HVTApp.Infrestructure.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp.Infrestructure\bin\Debug\HVTApp.Infrestructure.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp.Infrestructure\obj\Debug\HVTApp.Infrestructure.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp.Infrestructure\obj\Debug\HVTApp.Infrestructure.pdb

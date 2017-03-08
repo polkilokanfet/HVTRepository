@@ -1,0 +1,9 @@
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.csprojResolveAssemblyReference.cache
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.pdb

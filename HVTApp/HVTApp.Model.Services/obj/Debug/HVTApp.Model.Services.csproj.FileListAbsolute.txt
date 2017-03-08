@@ -1,0 +1,9 @@
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Model.Services\bin\Debug\HVTApp.Model.Services.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Model.Services\bin\Debug\HVTApp.Model.Services.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Model.Services\obj\Debug\HVTApp.Model.Services.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp.Model.Services\obj\Debug\HVTApp.Model.Services.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Model.Services\bin\Debug\HVTApp.Model.Services.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Model.Services\bin\Debug\HVTApp.Model.Services.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Model.Services\obj\Debug\HVTApp.Model.Services.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Model.Services\obj\Debug\HVTApp.Model.Services.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp.Model.Services\obj\Debug\HVTApp.Model.Services.csprojResolveAssemblyReference.cache

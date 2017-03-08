@@ -1,0 +1,279 @@
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.exe.config
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.exe
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.Wpf.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\Prism.Wpf.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.csprojResolveAssemblyReference.cache
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\Views\MainWindow.baml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\App.g.cs
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp_MarkupCompile.cache
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.g.resources
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.Properties.Resources.resources
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.csproj.GenerateResource.Cache
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.exe
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\obj\Debug\HVTApp.exe.licenses
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\Documents\Visual Studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.dll
+C:\Users\kosol\Documents\Visual Studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.pdb
+C:\Users\kosol\Documents\Visual Studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.dll
+C:\Users\kosol\Documents\Visual Studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.pdb
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.xml
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+C:\Users\kosol\documents\visual studio 2015\Projects\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.exe.config
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.exe
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.csprojResolveAssemblyReference.cache
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Views\MainWindow.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Views\MainWindow.g.cs
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\App.g.cs
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp_MarkupCompile.cache
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.g.resources
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.Properties.Resources.resources
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.csproj.GenerateResource.Cache
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.exe.licenses
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.exe
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Wpf.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\System.Windows.Interactivity.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Wpf.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataManager.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataManager.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataManager.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Editors.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Editors.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Editors.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.v15.1.resources.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.exe.config
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.exe
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.exe
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Wpf.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Infrastructure.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Production.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.Sales.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataManager.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DataPresenter.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.DragDrop.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Editors.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.OutlookBar.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.Ribbon.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\InfragisticsWPF4.v15.1.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\Prism.Wpf.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataManager.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.DataPresenter.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Editors.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.OutlookBar.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.Ribbon.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\de\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\es\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\fr\InfragisticsWPF4.v15.1.resources.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.csprojResolveAssemblyReference.cache
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Views\MainWindow.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\App.g.cs
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp_MarkupCompile.cache
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.g.resources
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.Properties.Resources.resources
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.csproj.GenerateResource.Cache
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp.exe.licenses
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Services.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Services.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.CommonEntities.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.CommonEntities.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.DataAccess.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.DataAccess.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Wrapper.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Wrapper.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.DataAccess.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.CommonEntities.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Wrapper.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Services.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.DataAccess.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Modules.CommonEntities.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Wrapper.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.Services.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Model.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\Brushes.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\CheckBox.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\DataGrid.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\Label.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\TextBox.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\ValidationErrorTemplates.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp_MarkupCompile.lref
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\ControlBaseStyle.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\DatePicker.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\App.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.DialogService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.DialogService.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.WpfAuthenticationService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.WpfAuthenticationService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.DialogService.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.WpfAuthenticationService.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.StringToGuidService.dll
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.DialogService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.WpfAuthenticationService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.StringToGuidService.pdb
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\Brushes.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\CheckBox.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\ControlBaseStyle.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\DataGrid.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\DatePicker.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\Label.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\TextBox.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\Styles\ValidationErrorTemplates.baml
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\HVTApp_MarkupCompile.lref
+D:\Users7\Admin\Desktop\HVTApp\HVTApp\obj\Debug\App.baml
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.StringToGuidService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.StringToGuidService.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.ChooseService.dll
+C:\Users\kosol\Desktop\HVTApp\HVTApp\bin\Debug\HVTApp.Services.ChooseService.pdb
+C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\Styles\XamDataGrid.baml
+C:\HVTApp\HVTApp\bin\Debug\HVTApp.exe.config
+C:\HVTApp\HVTApp\obj\Debug\HVTApp.exe
+C:\HVTApp\HVTApp\obj\Debug\HVTApp.pdb
+C:\HVTRepository\HVTApp\HVTApp\bin\Debug\HVTApp.exe.config
+C:\HVTRepository\HVTApp\HVTApp\obj\Debug\HVTApp.exe
+C:\HVTRepository\HVTApp\HVTApp\obj\Debug\HVTApp.pdb
