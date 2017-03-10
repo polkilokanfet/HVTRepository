@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\kosol\Desktop\HVTApp\HVTApp\obj\Debug\
+D:\HVTRepository\HVTApp\HVTApp\obj\Debug\
 HVTApp
 none
 false
 DEBUG;TRACE
-C:\Users\kosol\Desktop\HVTApp\HVTApp\App.xaml
+D:\HVTRepository\HVTApp\HVTApp\App.xaml
 101526157543
 
 7-1990057228
-95-1664230004
+95-1972208015
 Styles\Brushes.xaml;Styles\CheckBox.xaml;Styles\ControlBaseStyle.xaml;Styles\DataGrid.xaml;Styles\DatePicker.xaml;Styles\Label.xaml;Styles\TextBox.xaml;Styles\ValidationErrorTemplates.xaml;Styles\XamDataGrid.xaml;Views\MainWindow.xaml;
 
 False

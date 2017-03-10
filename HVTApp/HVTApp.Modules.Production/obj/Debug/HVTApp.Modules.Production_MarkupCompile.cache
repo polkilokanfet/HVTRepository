@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\kosol\Desktop\HVTApp\HVTApp.Modules.Production\obj\Debug\
+D:\HVTRepository\HVTApp\HVTApp.Modules.Production\obj\Debug\
 HVTApp.Modules.Production
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 21154120239
 
 7-1095661014
-79213639155
+791263397249
 Menus\ProductionMenu.xaml;Views\ProductionPlanView.xaml;
 
 False

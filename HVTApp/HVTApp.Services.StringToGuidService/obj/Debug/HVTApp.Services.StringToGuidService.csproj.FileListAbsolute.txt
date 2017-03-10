@@ -7,3 +7,8 @@ C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTA
 C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.pdb
 C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.dll
 C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.pdb
+D:\HVTRepository\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.dll
+D:\HVTRepository\HVTApp\HVTApp.Services.StringToGuidService\bin\Debug\HVTApp.Services.StringToGuidService.pdb
+D:\HVTRepository\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.csprojResolveAssemblyReference.cache
+D:\HVTRepository\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.dll
+D:\HVTRepository\HVTApp\HVTApp.Services.StringToGuidService\obj\Debug\HVTApp.Services.StringToGuidService.pdb

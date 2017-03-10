@@ -21,7 +21,8 @@ namespace HVTApp.DataAccess
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<CompanyForm>().Property(x => x.FullName).IsUnicode();
+            modelBuilder.Entity<CompanyForm>().Property(x => x.FullName).IsUnicode().HasMaxLength(100);
+            modelBuilder.Entity<CompanyForm>().Property(x => x.ShortName).IsUnicode().HasMaxLength(50);
 
             modelBuilder.Entity<ProductMain>().HasRequired(x => x.TenderInfo).WithRequiredPrincipal(x => x.ProductMain);
             modelBuilder.Entity<ProductBase>().HasRequired(x => x.OrderInfo).WithRequiredPrincipal(x => x.Product);

@@ -4,19 +4,26 @@ using System;
 using System.ComponentModel;
 using System.Windows.Input;
 using HVTApp.Infrastructure.Interfaces.Services.DialogService;
+using HVTApp.Model;
 using HVTApp.Model.Wrapper;
 
 namespace HVTApp.Modules.CommonEntities.ViewModels
 {
     public class CompanyFormDetailsViewModel : BindableBase, IDialogRequestClose
     {
-        public CompanyFormDetailsViewModel(CompanyFormWrapper companyFormWrapper)
+        public CompanyFormDetailsViewModel(CompanyFormWrapper companyFormWrapper = null)
         {
-            this.CompanyFormWrapper = companyFormWrapper;
+            this.CompanyFormWrapper = companyFormWrapper ?? new CompanyFormWrapper(new CompanyForm());
 
             OkCommand = new DelegateCommand(OkCommand_Execute, OkCommand_CanExecute);
 
             CompanyFormWrapper.PropertyChanged += CompanyFormWrapperOnPropertyChanged;
+
+            if (companyFormWrapper == null)
+            {
+                CompanyFormWrapper.ShortName = "НФ";
+                CompanyFormWrapper.FullName = "Новая форма";
+            }
         }
 
         public CompanyFormWrapper CompanyFormWrapper { get; }
@@ -26,6 +33,11 @@ namespace HVTApp.Modules.CommonEntities.ViewModels
 
 
         private void CompanyFormWrapperOnPropertyChanged(object sender, PropertyChangedEventArgs propertyChangedEventArgs)
+        {
+            InvalidateCommands();
+        }
+
+        private void InvalidateCommands()
         {
             ((DelegateCommand)OkCommand).RaiseCanExecuteChanged();
         }

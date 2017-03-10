@@ -54,8 +54,7 @@ namespace HVTApp.Modules.CommonEntities.ViewModels
 
         private void NewCompanyFormCommand_Execute()
         {
-            CompanyForm companyForm = new CompanyForm();
-            CompanyFormDetailsViewModel companyFormDetailsViewModel = new CompanyFormDetailsViewModel(new CompanyFormWrapper(companyForm));
+            CompanyFormDetailsViewModel companyFormDetailsViewModel = new CompanyFormDetailsViewModel();
             bool? dialogResult = _dialogService.ShowDialog(companyFormDetailsViewModel);
 
             if (dialogResult.HasValue && dialogResult.Value)
@@ -63,7 +62,7 @@ namespace HVTApp.Modules.CommonEntities.ViewModels
                 companyFormDetailsViewModel.CompanyFormWrapper.AcceptChanges();
                 CompanyForms.Add(companyFormDetailsViewModel.CompanyFormWrapper);
 
-                _unitOfWork.CompanyForms.Add(companyForm);
+                _unitOfWork.CompanyForms.Add(companyFormDetailsViewModel.CompanyFormWrapper.Model);
                 _unitOfWork.Complete();
             }
         }

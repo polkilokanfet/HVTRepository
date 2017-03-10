@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\kosol\Desktop\HVTApp\HVTApp.Services.WpfAuthenticationService\obj\Debug\
+D:\HVTRepository\HVTApp\HVTApp.Services.WpfAuthenticationService\obj\Debug\
 HVTApp.Services.WpfAuthenticationService
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 1402901142
 
 61343536888
-701884784867
+701760410843
 AuthenticationWindow.xaml;
 
 False
